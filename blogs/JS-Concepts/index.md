@@ -1,0 +1,1 @@
+id: Kashan Siddiqui bio: Project Manager and MERN stack engineer at Xord. blog-link: https://docs.google.com/document/d/1im4hFZAxvq0AZTCYzlKxR9bI3wkR6oZhomKz0NaeUaI/edit?usp=sharing github:https://github.com/kashansiddiqui linkedin: https://www.linkedin.com/in/kashansiddiqui/
